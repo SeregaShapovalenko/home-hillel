@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #ffffff;
+}
+.wraper {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+}
+.logo {
+    padding-bottom: 17.7px;
+    margin-right: 189px;
+}
+.navigation {
+    display: inline-block;
+    vertical-align: top;
+    padding: none;
+}
+.navigation li {
+    display: inline-block;
+    vertical-align: top;
+}
+.navigation a {
+    color: #3D3D3D;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 35px;
+}
+.navigation a:hover {
+    border-bottom: 3px solid #46A358;
+    padding-bottom: 25px;
+}
+.login {
+    border-radius: 6px;
+    background: #46A358;
+    color: #ffffff;
+    font-style: 16px;
+    width: 100px;
+    height: 35px;
+    font-weight: bold;
+    border: none;
+    margin-left: 370px;
+}
+.login img {
+    display: inline-block;
+    vertical-align: middle;
+}
+.main {
+    height: 450px;
+    margin-top: 12px;
+    display: flex;
+    background: linear-gradient(98deg, rgba(245, 245, 245, 0.50) -23.46%, rgba(245, 245, 245, 0.50) 107.51%);
+}
+.planet {
+    width: 693px;
+    display: inline-block;
+    vertical-align: top;
+}
+.welcom {
+    color: #3D3D3D;
+    font-size: 14px;
+    width: 205px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.planet .welcom {
+   margin-left: 43px;
+   margin-top: 68px;
+   margin-bottom: 7px;
+}
+.lets {
+    color: #3D3D3D;
+    font-size: 70px;
+    width: 530px;
+    margin: 0;
+}
+.planet .lets {
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+.greentext {
+    color: #46A358;
+}
+.jungle {
+    color: #727272;
+    font-size: 14px;
+    width: 557px;
+    margin: 0;
+}
+.planet .jungle {
+    margin-left: 43px;
+    margin-bottom: 44px;
+}
+.shopbat {
+    background-color: #46A358;
+    color: #ffffff;
+    border: none;
+    display: inline-block;
+    width: 140px;
+    height: 40px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 11px 25px 9px 26px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.planet .shopbat {
+    margin-left: 41px;
+}
+.plants {
+    width: 507px;
+    display: inline-block;
+    vertical-align: top;
+}
