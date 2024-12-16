@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+}
+.regis {
+    width: 300px;
+    background-color: #ffffff;
+    border-bottom: 10px solid #46A358;
+    padding-top: 52px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin: 50px auto;
+    text-align: center;
+}
+.login {
+    text-decoration: none;
+    color: #3D3D3D;
+    font-size: 20px;
+    line-height: 16px;
+}
+.register {
+    text-decoration: none;
+    color: #46A358;
+    font-size: 20px;
+    line-height: 16px;
+}
+.text1 {
+    color: #3D3D3D;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 14px;
+}
+form div input {
+    font-size: 14px;
+    line-height: 16px;
+    width: 270px;
+    border: 1px solid #EAEAEA;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 14px;
+    padding-left: 14px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+.btn {
+    background-color: #46A358;
+    color: #ffffff;
+    border: none;
+    padding-top: 16px;
+    padding-bottom: 12px;
+    width: 298px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.text2 {
+    color: #3D3D3D;
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 36px;
+    margin-bottom: 27px;
+}
+.google {
+    border: 1px solid #EAEAEA;
+    border-radius: 5px;
+    width: 298px;
+    height: 18px;
+    display: block;
+    color: #727272;
+    font-size: 13px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 13px;
+}
+.google img {
+    display: inline-block;
+    vertical-align: middle;
+}
+.facebook {
+    border: 1px solid #EAEAEA;
+    border-radius: 5px;
+    width: 298px;
+    height: 18px;
+    display: block;
+    color: #727272;
+    font-size: 13px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.facebook img {
+    display: inline-block;
+    vertical-align: middle;
+}
